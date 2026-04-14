@@ -4,10 +4,10 @@
     "Version":  "v1.0.1",
     "InstallerUrl":  "https://github.com/mundas26/adpia-updates/releases/download/v1.0.1/SalesTransport-Setup-BWNT-001-BWNT-MAAX-1.0.1.exe",
     "ReleaseNotes":  "Initial BWNT MAAX build",
-    "Sha256":  "43ba34e84baace08940e8d9bb1d90f943b2498efbbb820c3c7bf27bd885ff02f",
+    "Sha256":  "087a8a88d6a948307fb7eea4483bf97ec9f1036189575a6f241b908fde1a9192",
     "RolloutChannel":  "pilot",
     "IsMandatory":  false,
     "SilentInstallAllowed":  true,
-    "PublishedUtc":  "2026-04-14T08:55:12Z",
-    "AvailableFromUtc":  "2026-04-14T08:55:12Z"
+    "PublishedUtc":  "2026-04-14T09:39:02Z",
+    "AvailableFromUtc":  "2026-04-14T09:39:02Z"
 }
