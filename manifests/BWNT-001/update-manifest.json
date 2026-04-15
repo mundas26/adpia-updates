@@ -1,13 +1,13 @@
 ﻿{
     "ProfileCode":  "BWNT-001",
     "ProfileName":  "BWNT MAAX",
-    "Version":  "v1.0.1",
-    "InstallerUrl":  "https://github.com/mundas26/adpia-updates/releases/download/v1.0.1/SalesTransport-Setup-BWNT-001-BWNT-MAAX-1.0.1.exe",
+    "Version":  "v1.0.2",
+    "InstallerUrl":  "https://github.com/mundas26/adpia-updates/releases/download/v1.0.2/SalesTransport-Setup-BWNT-001-BWNT-MAAX-1.0.2.exe",
     "ReleaseNotes":  "Initial BWNT MAAX build",
-    "Sha256":  "18a3c92ad5517622e415fcfe36f1fcee9382da09ed3a4b6099d915f808f54511",
+    "Sha256":  "10054249e057ac0d26aa328a19d68ab12d52742e6f29aa94f9e0bdccc2a99ffa",
     "RolloutChannel":  "pilot",
     "IsMandatory":  false,
     "SilentInstallAllowed":  true,
-    "PublishedUtc":  "2026-04-14T15:31:24Z",
-    "AvailableFromUtc":  "2026-04-14T15:31:24Z"
+    "PublishedUtc":  "2026-04-15T06:49:03Z",
+    "AvailableFromUtc":  "2026-04-15T06:49:03Z"
 }
