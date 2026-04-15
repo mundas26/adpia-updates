@@ -1,13 +1,13 @@
 ﻿{
     "ProfileCode":  "BWNT-001",
     "ProfileName":  "BWNT MAAX",
-    "Version":  "v1.0.2",
-    "InstallerUrl":  "https://github.com/mundas26/adpia-updates/releases/download/v1.0.2/SalesTransport-Setup-BWNT-001-BWNT-MAAX-1.0.2.exe",
-    "ReleaseNotes":  "Initial BWNT MAAX build",
-    "Sha256":  "10054249e057ac0d26aa328a19d68ab12d52742e6f29aa94f9e0bdccc2a99ffa",
+    "Version":  "v1.0.3",
+    "InstallerUrl":  "https://github.com/mundas26/adpia-updates/releases/download/v1.0.3/SalesTransport-Setup-BWNT-001-BWNT-MAAX-1.0.3.exe",
+    "ReleaseNotes":  "Re-assigned the license of Syncfusion.",
+    "Sha256":  "c0cb9a2a807be5d44fadf871c0e4bfc706cc8afc94db193094472a52e2070510",
     "RolloutChannel":  "pilot",
     "IsMandatory":  false,
     "SilentInstallAllowed":  true,
-    "PublishedUtc":  "2026-04-15T06:49:03Z",
-    "AvailableFromUtc":  "2026-04-15T06:49:03Z"
+    "PublishedUtc":  "2026-04-15T12:31:17Z",
+    "AvailableFromUtc":  "2026-04-15T12:31:17Z"
 }
