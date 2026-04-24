@@ -1,0 +1,13 @@
+﻿{
+    "ProfileCode":  "Megamall",
+    "ProfileName":  "Megamall",
+    "Version":  "v1.0.1",
+    "InstallerUrl":  "https://github.com/mundas26/adpia-updates/releases/download/v1.0.1/SalesTransport-Setup-Megamall-Megamall-1.0.1.exe",
+    "ReleaseNotes":  "Initial Megamall release v1.0.1",
+    "Sha256":  "9e9d3a975c394d90782f0c6018fb3c9735b25393187b1dceccc6806303aeb9f9",
+    "RolloutChannel":  "pilot",
+    "IsMandatory":  false,
+    "SilentInstallAllowed":  true,
+    "PublishedUtc":  "2026-04-24T09:24:13Z",
+    "AvailableFromUtc":  "2026-04-24T09:24:13Z"
+}
