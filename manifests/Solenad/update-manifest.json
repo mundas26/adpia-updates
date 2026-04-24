@@ -1,0 +1,13 @@
+﻿{
+    "ProfileCode":  "Solenad",
+    "ProfileName":  "Solenad",
+    "Version":  "v1.0.1",
+    "InstallerUrl":  "https://github.com/mundas26/adpia-updates/releases/download/v1.0.1/SalesTransport-Setup-Solenad-Solenad-1.0.1.exe",
+    "ReleaseNotes":  "Initial Solenad release v1.0.1",
+    "Sha256":  "a2e3347b31489b64b566a91d6907272b7606c8626d07a0d25c8821968eff991d",
+    "RolloutChannel":  "pilot",
+    "IsMandatory":  false,
+    "SilentInstallAllowed":  true,
+    "PublishedUtc":  "2026-04-24T09:07:08Z",
+    "AvailableFromUtc":  "2026-04-24T09:07:08Z"
+}
