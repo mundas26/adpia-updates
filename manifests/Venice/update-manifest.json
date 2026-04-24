@@ -1,0 +1,13 @@
+﻿{
+    "ProfileCode":  "Venice",
+    "ProfileName":  "Venice",
+    "Version":  "v1.0.1",
+    "InstallerUrl":  "https://github.com/mundas26/adpia-updates/releases/download/v1.0.1/SalesTransport-Setup-Venice-Venice-1.0.1.exe",
+    "ReleaseNotes":  "Initial Venice release v1.0.1",
+    "Sha256":  "226f99f45366f553114d2a9c42ff35fa7032feae1aba7a5ca5862d75f7aea96a",
+    "RolloutChannel":  "pilot",
+    "IsMandatory":  false,
+    "SilentInstallAllowed":  true,
+    "PublishedUtc":  "2026-04-24T03:51:30Z",
+    "AvailableFromUtc":  "2026-04-24T03:51:30Z"
+}
