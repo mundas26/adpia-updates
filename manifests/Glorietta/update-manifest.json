@@ -1,0 +1,13 @@
+{
+  "ProfileCode": "Glorietta",
+  "ProfileName": "Glorietta",
+  "Version": "v1.0.14",
+  "InstallerUrl": "https://github.com/mundas26/adpia-updates/releases/download/v1.0.14/SalesTransport-Setup-Glorietta-Glorietta-1.0.14.exe",
+  "ReleaseNotes": "Initial Glorietta release v1.0.14",
+  "Sha256": "",
+  "RolloutChannel": "pilot",
+  "IsMandatory": false,
+  "SilentInstallAllowed": true,
+  "PublishedUtc": "",
+  "AvailableFromUtc": ""
+}
