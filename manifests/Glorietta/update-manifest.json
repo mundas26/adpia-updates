@@ -1,13 +1,13 @@
 ﻿{
     "ProfileCode":  "Glorietta",
     "ProfileName":  "Glorietta",
-    "Version":  "v1.0.2",
-    "InstallerUrl":  "https://github.com/mundas26/adpia-updates/releases/download/v1.0.2/SalesTransport-Setup-Glorietta-Glorietta-1.0.2.exe",
-    "ReleaseNotes":  "Automated Glorietta release v1.0.2",
-    "Sha256":  "dec1be5538bfdf366274c290b7449b0f26c5e0b6fc2c8db8e4671ef5eb427ef8",
+    "Version":  "v1.0.3",
+    "InstallerUrl":  "https://github.com/mundas26/adpia-updates/releases/download/v1.0.3/SalesTransport-Setup-Glorietta-Glorietta-1.0.3.exe",
+    "ReleaseNotes":  "Automated Glorietta release v1.0.3",
+    "Sha256":  "4bda668ee646a52530626f4a59a348c193877433beef257c6acd6f1c70bff438",
     "RolloutChannel":  "pilot",
     "IsMandatory":  false,
     "SilentInstallAllowed":  true,
-    "PublishedUtc":  "2026-04-24T03:02:39Z",
-    "AvailableFromUtc":  "2026-04-24T03:02:39Z"
+    "PublishedUtc":  "2026-04-24T03:34:24Z",
+    "AvailableFromUtc":  "2026-04-24T03:34:24Z"
 }
