@@ -1,13 +1,13 @@
 ﻿{
     "ProfileCode":  "DBP-001",
     "ProfileName":  "DICKEY\u0027S BARBECUE PIT",
-    "Version":  "v1.0.2",
-    "InstallerUrl":  "https://github.com/mundas26/adpia-updates/releases/download/v1.0.2/SalesTransport-Setup-DBP-001-DICKEY\u0027S-BARBECUE-PIT-1.0.2.exe",
-    "ReleaseNotes":  "Initial Dickey\u0027s release v1.0.2",
-    "Sha256":  "b349c8cacfb1873b305faf081cc8104977f8112e5737dfcbef556b7d62c53267",
+    "Version":  "v1.0.1",
+    "InstallerUrl":  "https://github.com/mundas26/adpia-updates/releases/download/v1.0.1/SalesTransport-Setup-DBP-001-DICKEY\u0027S-BARBECUE-PIT-1.0.1.exe",
+    "ReleaseNotes":  "Initial Dickey\u0027s release v1.0.1",
+    "Sha256":  "af8cc8f548f9ab359eb524799dd7d42c189c80a3a2d56841eb65d096038e2c31",
     "RolloutChannel":  "pilot",
     "IsMandatory":  false,
     "SilentInstallAllowed":  true,
-    "PublishedUtc":  "2026-05-04T04:21:25Z",
-    "AvailableFromUtc":  "2026-05-04T04:21:25Z"
+    "PublishedUtc":  "2026-05-04T04:33:44Z",
+    "AvailableFromUtc":  "2026-05-04T04:33:44Z"
 }
